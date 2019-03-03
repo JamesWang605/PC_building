@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# Building a Computer
 
-You can use the [editor on GitHub](https://github.com/JamesWang605/PC_building/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Why?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For higher video and image processing speed, better 2k gaming experience and to learn more about the structure of a PC.
 
-### Markdown
+## Perparation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Budget: 3000USD
 
-```markdown
-Syntax highlighted code block
+When I first brought this budget to my parent, they refused right away due to high value. After several times rejections, I realized I not only tell them amount but also list configuration and explained why I need them. Then budget was approved. 
+  
+#### Configuration List:
 
-# Header 1
-## Header 2
-### Header 3
+CPU: i9 9900k
 
-- Bulleted
-- List
+Ram: 16g G.Skill Royal 4266hz
 
-1. Numbered
-2. List
+Motherboard: Asus Maximus X Formula
 
-**Bold** and _Italic_ and `Code` text
+Graphic Card:  evga XC RTX 2080ti
 
-[Link](url) and ![Image](src)
-```
+Cooling: Corsair H150i 360mm
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Storage: Crucial MX500 1t sata and Samsang 970evo 250g M.2
 
-### Jekyll Themes
+Power Supply: Corsair RM750x
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamesWang605/PC_building/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Case: Corsair SPEC-OMEGA rgb
 
-### Support or Contact
+### Actual Price: 3200USD
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Graphic Card
+
+If the monitor I have is 1080p, a 2070 or even 1060 will be enough for normal gaming without ray tracking. However, my monitor have 2k resolution, this means that at least a 2080 will be needed. In order to keep the game running higher than 70 fps at “Ultra” quality with ray tracking on at 2k resolution, a 2080 ti will be needed.
+
+## Building PC
+
+1.Update bios of motherboard so that i9 can safely work on Z370 motherboard. A 8th gern CPU is needed to get in bios of most of the motherboards
+
+2.Put CPU on motherboard and lock it in place
+
+3.Put RAM on motherboard and lock it in place
+
+4.Unload cooling armer of the motherboard and put M.2 ssd in place
+
+5.Connect jumper wires on motherboard
+
+6.Take the case apart, unload every part that can be unload
+
+7.Lock motherboard and power supply inside the case
+
+8.Connect cables from powersupply to motherboards
+
+9.Put water cooling in place. At this step, I find out that I bought a wrong and poorly designed case, there are no enough space for water cooling to fit on top of the case. Thus, I have to put fans on the side of the case.
+
+10.Connect sata ssd and put it at the backplane of the case
+
+11.Put graphic card on PCIe port and lock the card with case
+
+13.Put all cooling fans in place
+
+14.Test if everything works
+
+15.Connect all other wires and try to put all of them in backplane. This can take hours and need to be very careful. I found out that one of cable from water cooling is broke, so I weld it back together and covered it with hot glue
+
+16.Use a flash drive with windows installer to install windows 10
+
+17.Download all drivers that the computer need and install them
+
+
+
+	
+	
