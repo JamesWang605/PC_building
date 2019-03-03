@@ -6,7 +6,7 @@ For higher video and image processing speed, better 2k gaming experience and to 
 
 ## Perparation
 
-### Budget: 3000USD
+### Budget: 3,000 USD
 
 When I first brought this budget to my parent, they refused right away due to high value. After several times rejections, I realized I not only tell them amount but also list configuration and explained why I need them. Then budget was approved. 
   
@@ -28,7 +28,9 @@ Power Supply: Corsair RM750x
 
 Case: Corsair SPEC-OMEGA rgb
 
-### Actual Price: 3200USD
+### Actual Price: 3,200 USD
+
+To improve ventilation, I changed new case, this caused actual expense is higher than budget. Even though, the case is still not right. That is a pity.
 
 ## Graphic Card
 
