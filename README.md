@@ -17,7 +17,9 @@ When I first brought this budget to my parent, they refused right away due to hi
 CPU: i9 9900k <img src="https://www.scan.co.uk/images/products/2979483-a.jpg" width="20%" height="20%"> Motherboard: Asus Maximus X Formula	<img src="https://c1.neweggimages.com/NeweggImage/ProductImage/13-119-046-V01.jpg" width="20%" height="20%"> 
 
 
-Cooling: Corsair H150i 360mm	<img src="https://www.corsair.com/corsairmedia/sys_master/productcontent/CW-9060031-WW-H150i_Pro_01_BLUE.png" width="20%" height="20%">		 Ram: 16g G.Skill Royal 4266hz	<img src="http://www.gskill.com/imgs/pro/8/8420o.png" width="20%" height="20%">
+Cooling: Corsair H150i 360mm	<img src="https://www.corsair.com/corsairmedia/sys_master/productcontent/CW-9060031-WW-H150i_Pro_01_BLUE.png" width="20%" height="20%">		 
+
+Ram: 16g G.Skill Royal 4266hz	<img src="http://www.gskill.com/imgs/pro/8/8420o.png" width="20%" height="20%">
 			
 
 Graphic Card:  evga XC RTX 2080ti
