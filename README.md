@@ -20,10 +20,7 @@ CPU: i9 9900k <img src="https://www.scan.co.uk/images/products/2979483-a.jpg" wi
 Cooling: Corsair H150i 360mm	<img src="https://www.corsair.com/corsairmedia/sys_master/productcontent/CW-9060031-WW-H150i_Pro_01_BLUE.png" width="20%" height="20%">		 Ram: 16g G.Skill Royal 4266hz	<img src="http://www.gskill.com/imgs/pro/8/8420o.png" width="20%" height="20%">
 			
 
-
-
 Graphic Card:  evga XC RTX 2080ti
-
 
 Storage: Crucial MX500 1t sata and Samsang 970evo 250g M.2
 
@@ -67,11 +64,13 @@ Graphic Card: evga XC RTX 2080ti
 
 11.Put graphic card on PCIe port and lock the card with case
 
-13.Put all cooling fans in place
+13.Put all cooling fans in place	<img src="http://thyrsi.com/t6/676/1551706228x2728290989.jpg" width="20%" height="20%">
 
 14.Test if everything works
 
 15.Connect all other wires and try to put all of them in backplane. This can take hours and need to be very careful. I found out that one of cable from water cooling is broke, so I weld it back together and covered it with hot glue
+
+<img src="http://thyrsi.com/t6/676/1551706030x1822619176.jpg" width="20%" height="20%">
 
 16.Use a flash drive with windows installer to install windows 10
 
