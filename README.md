@@ -14,12 +14,13 @@ When I first brought this budget to my parent, they refused right away due to hi
   
 #### Configuration List:
 
-Cooling: Corsair H150i 360mm	<img src="https://www.corsair.com/corsairmedia/sys_master/productcontent/CW-9060031-WW-H150i_Pro_01_BLUE.png" width="20%" height="20%"> Ram: 16g G.Skill Royal 4266hz	<img src="http://www.gskill.com/imgs/pro/8/8420o.png" width="20%" height="20%">
+CPU: i9 9900k <img src="https://www.scan.co.uk/images/products/2979483-a.jpg" width="20%" height="20%"> 
 
 
-CPU: i9 9900k 		<img src="https://www.scan.co.uk/images/products/2979483-a.jpg" width="15%" height="15%"> 			
+Cooling: Corsair H150i 360mm	<img src="https://www.corsair.com/corsairmedia/sys_master/productcontent/CW-9060031-WW-H150i_Pro_01_BLUE.png" width="20%" height="20%">		 Ram: 16g G.Skill Royal 4266hz	<img src="http://www.gskill.com/imgs/pro/8/8420o.png" width="20%" height="20%">
+			
 
-Motherboard: Asus Maximus X Formula	<img src="https://c1.neweggimages.com/NeweggImage/ProductImage/13-119-046-V01.jpg" width="20%" height="20%"> Graphic Card:  evga XC RTX 2080ti <img src="https://static.bhphoto.com/images/images500x500/evga_11g_p4_2382_kr_geforce_rtx_2080_ti_1550592512000_1432503.jpg" width="20%" height="20%">
+Motherboard: Asus Maximus X Formula	<img src="https://c1.neweggimages.com/NeweggImage/ProductImage/13-119-046-V01.jpg" width="20%" height="20%"> 
 
 
 
@@ -37,6 +38,8 @@ To improve ventilation, I changed new case, this caused actual expense is higher
 ## Graphic Card
 
 If the monitor I have is 1080p, a 2070 or even 1060 will be enough for normal gaming without ray tracking. However, my monitor has 2k resolution, which means that at least a 2080 will be needed. In order to keep the game running higher than 70 fps at “Ultra” quality with ray tracking on at 2k resolution, a 2080 ti will be needed.
+
+Graphic Card:  evga XC RTX 2080ti <img src="https://static.bhphoto.com/images/images500x500/evga_11g_p4_2382_kr_geforce_rtx_2080_ti_1550592512000_1432503.jpg" width="20%" height="20%">
 
 ## Building PC
 
