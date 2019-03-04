@@ -34,7 +34,7 @@ To improve ventilation, I changed new case, this caused actual expense is higher
 
 ## Graphic Card
 
-If the monitor I have is 1080p, a 2070 or even 1060 will be enough for normal gaming without ray tracking. However, my monitor have 2k resolution, this means that at least a 2080 will be needed. In order to keep the game running higher than 70 fps at “Ultra” quality with ray tracking on at 2k resolution, a 2080 ti will be needed.
+If the monitor I have is 1080p, a 2070 or even 1060 will be enough for normal gaming without ray tracking. However, my monitor has 2k resolution, which means that at least a 2080 will be needed. In order to keep the game running higher than 70 fps at “Ultra” quality with ray tracking on at 2k resolution, a 2080 ti will be needed.
 
 ## Building PC
 
