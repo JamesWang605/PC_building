@@ -78,13 +78,13 @@ Graphic Card: evga XC RTX 2080ti
 
 15.Connect all other wires and try to put all of them in backplane. This can take hours and need to be very careful. I found out that one of cable from water cooling is broke, so I weld it back together and covered it with hot glue
 
-<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/53736369_102221834279416_8188523572671545344_n.jpg?_nc_cat=104&_nc_ht=scontent-sea1-1.xx&oh=fb02dc641945a4c94dd6e0ceff16ccf2&oe=5D0BA77B" width="15%" height="20%">
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/53681340_102224264279173_8271683506845777920_n.jpg?_nc_cat=110&_nc_ht=scontent-sea1-1.xx&oh=f6efdce02519cdd1a5a6e20dccdf26fe&oe=5D139859" width="15%" height="20%">
 
 16.Use a flash drive with windows installer to install windows 10
 
 17.Download all drivers that the computer need and install them
 
-
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/53736369_102221834279416_8188523572671545344_n.jpg?_nc_cat=104&_nc_ht=scontent-sea1-1.xx&oh=fb02dc641945a4c94dd6e0ceff16ccf2&oe=5D0BA77B" width="15%" height="20%">
 
 	
 	
