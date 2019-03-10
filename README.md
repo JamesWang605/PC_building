@@ -72,13 +72,13 @@ Graphic Card: evga XC RTX 2080ti
 
 11.Put graphic card on PCIe port and lock the card with case
 
-13.Put all cooling fans in place	<img src="http://thyrsi.com/t6/676/1551706228x2728290989.jpg" width="15%" height="20%">
+13.Put all cooling fans in place	<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/53117802_102223207612612_5378151455276400640_n.jpg?_nc_cat=109&_nc_ht=scontent-sea1-1.xx&oh=1db4176f7fb8ba2bbaa7542b1a2e18d4&oe=5D194B2B" width="15%" height="20%">
 
 14.Test if everything works
 
 15.Connect all other wires and try to put all of them in backplane. This can take hours and need to be very careful. I found out that one of cable from water cooling is broke, so I weld it back together and covered it with hot glue
 
-<img src="http://thyrsi.com/t6/676/1551706030x1822619176.jpg" width="15%" height="20%">
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/53736369_102221834279416_8188523572671545344_n.jpg?_nc_cat=104&_nc_ht=scontent-sea1-1.xx&oh=fb02dc641945a4c94dd6e0ceff16ccf2&oe=5D0BA77B" width="15%" height="20%">
 
 16.Use a flash drive with windows installer to install windows 10
 
