@@ -4,7 +4,7 @@
 
 For higher video and image processing speed, better 2k gaming experience and to learn more about the structure of a PC.
 
-<img src="https://cdn.gamerant.com/wp-content/uploads/for-honor-wu-lin-faction.jpg.optimal.jpg" width="80%" height="20%">
+<img src="https://cdn.gamerant.com/wp-content/uploads/for-honor-wu-lin-faction.jpg.optimal.jpg" width="60%" height="20%">
 
 ## Perparation
 
